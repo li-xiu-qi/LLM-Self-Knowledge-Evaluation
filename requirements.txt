@@ -1,0 +1,8 @@
+datasets==2.21.0
+llm_parse_json==0.1.5
+matplotlib==3.9.2
+openai==1.44.1
+pandas==2.2.2
+python-dotenv==1.0.1
+seaborn==0.13.2
+tqdm==4.66.5
